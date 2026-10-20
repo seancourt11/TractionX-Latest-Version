@@ -990,7 +990,7 @@ function Home() {
                   {ctaLabel} →
                 </a>
                 <a
-                  href="https://calendly.com/seancourt/30min"
+                  href="https://calendly.com/sean-tractionx/30min"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center gap-2 border border-white/25 px-7 py-3.5 rounded-xl font-semibold hover:bg-white/10"

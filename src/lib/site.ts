@@ -5,11 +5,11 @@ export const SITE = {
   phone: "+1-782-409-2527",
   phoneDisplay: "1-782-409-2527",
   email: "info@tractionx.ca",
-  calendly: "https://calendly.com/seancourt/30min",
+  calendly: "https://calendly.com/sean-tractionx/30min",
   /** 10-minute touch base — open to anyone. */
-  calendly10: "https://calendly.com/seancourt/10min",
+  calendly10: "https://calendly.com/sean-tractionx/10min",
   /** 30-minute design strategy session — qualified projects ($10K+ budget). */
-  calendly30: "https://calendly.com/seancourt/30min",
+  calendly30: "https://calendly.com/sean-tractionx/30min",
 };
 
 export type NavChild = { label: string; href: string; desc?: string; group?: string };
